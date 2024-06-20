@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated student currently p
 
 # 🛠️ Tools & Technologies
 
-- Languages: Python, SQL, Java, C#
+- Languages: Python, SQL
 - Data Visualization: Power BI, Tableau
 - Cloud: Azure AI Fundamentals
 
